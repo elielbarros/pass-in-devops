@@ -1,0 +1,1 @@
+Use o asdf para realizar a instalação do pnpm
